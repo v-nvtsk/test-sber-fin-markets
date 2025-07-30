@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "code": "001"
+    },
+    {
+      "id": "2",
+      "name": "Lawrence Smith",
+      "code": "002"
+    },
+    {
+      "id": "3",
+      "name": "Jolene Parton",
+      "code": "003"
+    },
+    {
+      "id": "4",
+      "name": "Anna Karenina",
+      "code": "004"
+    },
+    {
+      "id": "5",
+      "name": "Michael Johnson",
+      "code": "005"
+    },
+    {
+      "id": "6",
+      "name": "Sophia Loren",
+      "code": "006"
+    },
+    {
+      "id": "7",
+      "name": "William Turner",
+      "code": "007"
+    },
+    {
+      "id": "8",
+      "name": "Emma Watson",
+      "code": "008"
+    },
+    {
+      "id": "9",
+      "name": "David Beckham",
+      "code": "009"
+    },
+    {
+      "id": "10",
+      "name": "Natalie Portman",
+      "code": "010"
+    },
+    {
+      "id": "11",
+      "name": "Chris Evans",
+      "code": "011"
+    },
+    {
+      "id": "12",
+      "name": "Olivia Wilde",
+      "code": "012"
+    },
+    {
+      "id": "13",
+      "name": "Daniel Craig",
+      "code": "013"
+    },
+    {
+      "id": "14",
+      "name": "Scarlett Johansson",
+      "code": "014"
+    },
+    {
+      "id": "15",
+      "name": "Hugh Jackman",
+      "code": "015"
+    },
+    {
+      "id": "16",
+      "name": "Zendaya Coleman",
+      "code": "016"
+    },
+    {
+      "id": "17",
+      "name": "Tom Holland",
+      "code": "017"
+    },
+    {
+      "id": "18",
+      "name": "Keira Knightley",
+      "code": "018"
+    },
+    {
+      "id": "19",
+      "name": "Robert Downey Jr.",
+      "code": "019"
+    },
+    {
+      "id": "20",
+      "name": "Gal Gadot",
+      "code": "020"
+    },
+    {
+      "id": "21",
+      "name": "Abdulrahman bin Abdulaziz Al Saud",
+      "code": "021"
+    }
+  ],
+  "titles": [
+    {
+      "key": "id",
+      "title": "ID"
+    },
+    {
+      "key": "name",
+      "title": "Имя"
+    },
+    {
+      "key": "code",
+      "title": "Код"
+    }
+  ]
+}
